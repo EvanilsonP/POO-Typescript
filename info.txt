@@ -1,0 +1,29 @@
+1 - Class E Objeto
+
+Classe -> É uma forma de definir um tipo de dado em uma linguagem orientada a objeto, formada por dados e comportamentos.
+          Para definir os dados são usados os atributos.
+ 	  Para definir o comportamento são usado os metodos.
+	  Um construtor é um método usado por uma classe para criar objetos dela.
+
+2 - Herança e Polimorfismo:
+
+    Herança -> Um prinicipio de orientação a objetos que permite que classes compartilhem atributos e métodos.
+	       Usada na intenção de reaproveitar código, comportamento generalizado ou especializar operações ou atributos.
+
+3 - Encapsulamento: ---> O encapsulamento em programação orientada a objeto é utilizado para restringir o acesso aos dados de uma classe
+			 Public: Pode ser acessado de qualquer canto.
+			 Private: Uma classe privada é aquela que só permite que métodos que fazem parte da classe acessem seus membros privados.
+			 Restricted
+
+4 - Classes Abstratas e Interfaces :
+
+			As classes abstratas são as que não permitem realizar qualquer tipo de instância.
+			São classes feitas especialmente para serem modelos para suas classes derivadas. 
+
+			
+			O que for colocado na interface não pode ser privado, protegido. Não se coloca modificadores de acesso. Tudo é publico ou estático.
+			Interface você não herda, você implementa.
+
+			
+			
+	

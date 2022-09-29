@@ -20,3 +20,5 @@ class Jerry implements Rato { // Vai implementar algo que já está em Rato
 
 let rato = new Jerry('Jerry', 'Jerry tem dois anos de idade');
 console.log(rato);
+
+// 04 - Classes Abstratas e Interfaces 

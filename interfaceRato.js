@@ -11,3 +11,4 @@ class Jerry {
 }
 let rato = new Jerry('Jerry', 'Jerry tem dois anos de idade');
 console.log(rato);
+// 04 - Classes Abstratas e Interfaces 
